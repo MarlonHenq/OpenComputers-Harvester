@@ -71,7 +71,7 @@ if start == "y" then
 end
 
 while true do
-    os.sleep(4800)
+    os.sleep(2700) -- 45min
 
     harvest()
 end
