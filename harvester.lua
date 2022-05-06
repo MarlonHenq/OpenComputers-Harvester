@@ -1,3 +1,5 @@
+local robot = require("robot")
+
 sizeSide = 8
 sizeFront = 8
 
